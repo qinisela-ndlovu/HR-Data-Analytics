@@ -9,7 +9,7 @@ This project involves analyzing HR data to uncover insights related to employee 
 - `sql/`: MySQL queries used for data analysis/prep.
 - `PowetBi Dashbpard/`: Power BI dashboard.
 - 'Excel files/': The view to be imported on PowerBi and other analytics data
-- `README.md`: Project documentation.
+
 
 ##  Tools Used
 - Jupyter Notebook(for data exploration, cleaning)
@@ -28,12 +28,9 @@ This project involves analyzing HR data to uncover insights related to employee 
 - The company is struggling to retain employees in lower job levels.
 
 ## A quick visualisation of Attrition in the company
-   <img src="https://github.com/qinisela-ndlovu/HR-Data-Analytics/blob/main/PowerBi%20Dashboard/Employee%20Attrition%20Dashboard%20(1).pbix" alt="Dashboard Screenshot" width="600"/>
+   <img src="https://github.com/qinisela-ndlovu/HR-Data-Analytics/blob/main/PowerBi%20Dashboard/Attrition%20rate.png" alt="Dashboard Screenshot" width="600"/>
 
-##  Getting Started
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/qinisela-ndlovu/hr_employee_attrition_project.git
-cd hr_employee_attrition_project
+
+
 
 
