@@ -1,4 +1,4 @@
-# HR_Data Analytics( Attrition Analysis)
+# HR Data Analytics( Attrition Analysis)
 Analyzing HR data and visualize using Power BI
 
 In this project attrition is analysed in the company, by age, enviromental satisfaction, department, gender and more
@@ -31,7 +31,7 @@ This helps HR and leadership to take decisions based on evidence provided by dat
 ## A quick visualisation of Attrition in the company
    <img src="https://github.com/qinisela-ndlovu/HR-Data-Analytics/blob/main/PowerBi%20Dashboard/Attrition%20rate.png" alt="Dashboard Screenshot" width="600"/>
 
-
+# more: Please note this project uses dummy/ fake data but it is an image of a similar project completed at work.
 
 
 
